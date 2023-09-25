@@ -22,6 +22,8 @@ O IMC é calculado da seguinte forma:
 
 O IMC é classificado da seguinte forma:
 
+IMC = Peso (kg) / (Altura (m) * Altura (m))
+
 - IMC menor que 17: Muito abaixo do peso
 - IMC entre 17 e 18.49: Abaixo do peso
 - IMC entre 18.5 e 24.99: Peso normal
