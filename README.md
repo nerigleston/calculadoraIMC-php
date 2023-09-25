@@ -16,13 +16,12 @@ Esta é uma simples calculadora de Índice de Massa Corporal (IMC) em PHP. Você
 
 ## Cálculo do IMC
 
-O IMC é calculado da seguinte forma:
+O IMC é calculado da seguinte forma: 
+IMC = Peso (kg) / (Altura (m) * Altura (m))
 
 ## Classificação do Peso
 
 O IMC é classificado da seguinte forma:
-
-IMC = Peso (kg) / (Altura (m) * Altura (m))
 
 - IMC menor que 17: Muito abaixo do peso
 - IMC entre 17 e 18.49: Abaixo do peso
